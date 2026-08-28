@@ -1041,7 +1041,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 |:-----------|:------|:-------------|
 | Boilerplate | [Link](https://github.com/zubairehman/flutter_boilerplate_project) | A boilerplate project created using MobX and Provider. |
 | conference-app           | [Link](https://github.com/invertase/conference-app)             | The Conference app toolkit is an app template that can be used to create a Flutter conference app for your event easily. |
-| festapp                  | [Link](https://github.com/vkh-cr/festapp)                       | Festapp - mobile app for festivals, conferences or events. |
+| festapp                  | [Link](https://github.com/festappnet/festapp)                   | Festapp - mobile app for festivals, conferences or events. |
 | FireNoti | [link](https://github.com/iamapuneet/Fire-Noti) | Aims to provide a seamless notification experience by integrating Firebase FCM |
 | Flight search | [Link](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) | Flight search UI template |
 | flutter_template         | [Link](https://github.com/wednesday-solutions/flutter_template) | A Flutter template application showcasing - Clean architecture, Responsive design, State management, testing, Navigation, etc.  |
