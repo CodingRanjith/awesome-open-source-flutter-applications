@@ -88,6 +88,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
 | WidgetHub | [Link](https://github.com/yunweneric/flutter-widgethub) | Collection of UI Widgets to help developers create beautiful, functional flutter apps |
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 ### Generative AI & LLMs
 
